@@ -1,4 +1,4 @@
-# SleepPoseNet
+# SleepPoseNet: Multi-View Multi-Task Learning for Sleep Postural Transition Recognition Using UWB
 
 ## Abstract
 
