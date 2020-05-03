@@ -6,7 +6,7 @@
 
 ## Data description
 
-There are totally 930 samples.
+**There are totally 930 input samples.**
 
 **Data**
 
@@ -30,6 +30,22 @@ There are six possibility labels for each input sample.
 
 The UWB radar system was attached to the wall with 0.8 m height above the bed. The pitch angle was approximately 45 degrees downward towards the bed. Six STPs were selected. There were 26 volunteers, including 19 males and 7 females participated in this study. The height ranged from 1.55 to 1.80 m, the weight ranged from 40 to 90 kg, and the age ranged from 18 to 35 years old. The experiment commenced with the subjects lying down with a supine position in the middle of the bed under the line-of-sight of the radar. The subjects were instructed to perform 6 motions, in a sample, following an arranged sequence: supine to left lateral, left lateral to supine, supine to right lateral, right lateral to supine, supine to prone, and prone to supine, at their own pace. The subjects were given 10-15 s to rest while inhaling for 4-5 times before performing the next motion. This allowed the radar system to obtain the respiration features before and after each change of posture.
 
+<p align='center'>
+<img src="/fig/bedroom.png" height=300px>
+</p>
+<p align='center'> <b>Fig. 1</b> The experiment room, UWB radar and camera position.</p>
+
+## Device
+
+In this paper, we use **XeThru X4M03** with 10Hz frame rate.
+
+<p align='center'><img src="/fig/xethru.jpg" height=300px></p>
+<p align='center'> <b>Fig. 2</b> XeThru X4M03</p>
+
 ## Dataset
 
 **Note!** This manuscript is under review. The dataset and code are available when the manuscript is accepted.
+
+## Citation
+
+When using (any part) of this dataset, please cite
