@@ -1,4 +1,5 @@
 # SleepPoseNet: Multi-View Learning for Sleep Postural Transition Recognition Using UWB
+## This work is publised at IEEE Journal of Biomedical and Health Informatics
 
 ## Abstract
 
@@ -44,8 +45,19 @@ In this paper, we use **XeThru X4M03** with 10Hz frame rate.
 
 ## Dataset
 
-**Note!** This manuscript is under review. The dataset and code are available when the manuscript is accepted.
 
 ## Citation
 
-When using (any part) of this dataset, please cite
+### Our Paper
+
+When using (any part) of this dataset, please cite [our paper](https://doi.org/10.1109/JBHI.2020.3025900)
+
+```
+@article{piriyajitakonkij2020sleepposenet,
+  title={SleepPoseNet: Multi-view learning for sleep postural transition recognition using UWB},
+  author={Piriyajitakonkij, Maytus and Warin, Patchanon and Lakhan, Payongkit and Leelaarporn, Pitshaporn and Kumchaiseemak, Nakorn and Suwajanakorn, Supasorn and Pianpanit, Theerasarn and Niparnan, Nattee and Mukhopadhyay, Subhas Chandra and Wilaiprasitporn, Theerawit},
+  journal={IEEE Journal of Biomedical and Health Informatics},
+  year={2020},
+  publisher={IEEE}
+}
+```
