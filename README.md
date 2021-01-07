@@ -55,11 +55,11 @@ Label data (y_digit)
 **In the paper, we used only class 0, 3, 4, 5 and 6, so there are totally 5 classes**
 
 **Files description**
-X_wall = wall-placed radar data
-X_ceiling = ceiling-placed radar data
-y_digit = label as a digit
-y_str = label as a string
-subjects = subject or participant label
+X_wall = wall-placed radar data \
+X_ceiling = ceiling-placed radar data \
+y_digit = label as a digit \
+y_str = label as a string \
+subjects = subject or participant label \
 
 
 <p align='center'>
