@@ -23,7 +23,8 @@ There are six possibility labels for each input sample.
 * **2** - Supine to Prone
 * **3** - Left to Supine
 * **4** - Right to Supine
-* **5** - Prone to Supine \
+* **5** - Prone to Supine
+
 **In the paper left and right are considered as side, so there are totally 4 classes**
 
 **Files description**
@@ -36,7 +37,6 @@ subjects = subject or participant label
 
 Session1 = without moving object \
 Session2 = with moving object
-
 
 Each sample contains only one postural transition (the change of a posture)
 Dimension = #samples, slow time, range bins or fast time = #samples, 160, 180
@@ -51,6 +51,7 @@ Label data (y_digit)
 * **4** = Supine prone
 * **5** = Prone supine
 * **6** = Background
+
 **In the paper, we used only class 0, 3, 4, 5 and 6, so there are totally 5 classes**
 
 **Files description**
