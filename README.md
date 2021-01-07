@@ -43,14 +43,14 @@ Each range bin approximately represents 5 cm, so 180 range bins = 900 cm
 Each slow time index represents 0.1 s, so 160 slow time indices = 16 s
 
 Label data (y_digit)
-**0** = Supine side
-**1** = Side prone
-**2** = Prone side
-**3** = Side supine
-**4** = Supine prone
-**5** = Prone supine
-**6** = Background
-**In the paper, we used only class 0, 3, 4, 5 and 6, so there are totally 5 classes**
+* **0** = Supine side
+* **1** = Side prone
+* **2** = Prone side
+* **3** = Side supine
+* **4** = Supine prone
+* **5** = Prone supine
+* **6** = Background
+* **In the paper, we used only class 0, 3, 4, 5 and 6, so there are totally 5 classes**
 
 **Files description**
 X_wall = wall-placed radar data
