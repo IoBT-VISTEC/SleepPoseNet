@@ -76,10 +76,7 @@ In this paper, we use **XeThru X4M03** with 10Hz frame rate.
 Any enquiry can be sent to maytusp@gmail.com
 
 ## Citation
-
-### Our Paper
-
-When using (any part) of this dataset, please cite [our paper](https://doi.org/10.1109/JBHI.2020.3025900)
+When using any part of this dataset, please cite [our paper](https://doi.org/10.1109/JBHI.2020.3025900)
 
 ```
 @article{piriyajitakonkij2020sleepposenet,
