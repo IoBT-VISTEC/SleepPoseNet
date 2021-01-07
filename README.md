@@ -23,7 +23,7 @@ There are six possibility labels for each input sample.
 * **2** - Supine to Prone
 * **3** - Left to Supine
 * **4** - Right to Supine
-* **5** - Prone to Supine
+* **5** - Prone to Supine \
 **In the paper left and right are considered as side, so there are totally 4 classes**
 
 **Files description**
