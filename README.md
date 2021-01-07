@@ -33,10 +33,12 @@ subjects = subject or participant label
 
 
 ## Dataset II
+
 Session1 = without moving object
+
 Session2 = with moving object
 
-Radar data (X)
+
 Each sample contains only one postural transition (the change of a posture)
 Dimension = #samples, slow time, range bins or fast time = #samples, 160, 180
 Each range bin approximately represents 5 cm, so 180 range bins = 900 cm
@@ -50,7 +52,7 @@ Label data (y_digit)
 * **4** = Supine prone
 * **5** = Prone supine
 * **6** = Background
-* **In the paper, we used only class 0, 3, 4, 5 and 6, so there are totally 5 classes**
+**In the paper, we used only class 0, 3, 4, 5 and 6, so there are totally 5 classes**
 
 **Files description**
 X_wall = wall-placed radar data
