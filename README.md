@@ -14,7 +14,7 @@
 * **Input signal: X[930,160,180]**
 * **Label: y[930]**
 
-Each input sample is a 16 s UWB radar signal output which is contained in 2D array size 160x180, the first axis is slow-time and the second axis is range bin (fast-time). The movement of sleep postural transitions mostly begin at 5-7th second or indices 50-70 in first axis. 
+Each input sample is a 16 s UWB radar signal output which is contained in 2D array size 160x180, the first axis is slow-time and the second axis is range bin (fast-time).
 
 There are six possibility labels for each input sample.
 
