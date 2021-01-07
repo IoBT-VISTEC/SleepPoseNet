@@ -74,6 +74,8 @@ In this paper, we use **XeThru X4M03** with 10Hz frame rate.
 <p align='center'><img src="/fig/xethru.jpg" height=300px></p>
 <p align='center'> <b>Fig. 2</b> XeThru X4M03</p>
 
+Any enquiry can be sent to maytusp@gmail.com
+
 ## Citation
 
 ### Our Paper
