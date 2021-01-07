@@ -26,7 +26,7 @@ There are six possibility labels for each input sample.
 
 **In the paper left and right are considered as side, so there are totally 4 classes**
 
-**Files description**
+**Files description** \
 X = wall-placed radar data \
 y = label as a digit \
 subjects = subject or participant label
@@ -53,7 +53,7 @@ Label data (y_digit)
 
 **In the paper, we used only class 0, 3, 4, 5 and 6, so there are totally 5 classes**
 
-**Files description**
+**Files description** \
 X_wall = wall-placed radar data \
 X_ceiling = ceiling-placed radar data \
 y_digit = label as a digit \
