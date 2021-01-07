@@ -27,15 +27,14 @@ There are six possibility labels for each input sample.
 **In the paper left and right are considered as side, so there are totally 4 classes**
 
 **Files description**
-X = wall-placed radar data
-y = label as a digit
+X = wall-placed radar data \
+y = label as a digit \
 subjects = subject or participant label
 
 
 ## Dataset II
 
-Session1 = without moving object
-
+Session1 = without moving object \
 Session2 = with moving object
 
 
@@ -59,7 +58,7 @@ X_wall = wall-placed radar data \
 X_ceiling = ceiling-placed radar data \
 y_digit = label as a digit \
 y_str = label as a string \
-subjects = subject or participant label \
+subjects = subject or participant label
 
 
 <p align='center'>
