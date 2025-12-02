@@ -6,7 +6,7 @@ This work is published in IEEE Journal of Biomedical and Health Informatics (JBH
 **Recognizing the movements during sleep is crucial for the monitoring of patients with sleep disorders. However, the utilization of Ultra-Wideband (UWB) radar for the classification of human sleep postures has not been explored widely. This study investigates the performance of the off-the-shelf single antenna UWB in a novel application of sleep postural transition (SPT) recognition. The proposed Multi-View Learning, entitled SleepPoseNet or SPN, with time series data augmentation, aims to classify four standard SPTs. SPN exhibits an ability to capture both time and frequency features, including the movement and direction of sleeping positions. The data recorded from 38 volunteers displayed that SPN, with a mean accuracy of 73.7±0.8% significantly outperformed the mean accuracy of 59.9±0.7% obtained from a deep convolution neural network (DCNN) in recent state-of-the-art work on human activity recognition using UWB. Apart from the  UWB system, SPN with data augmentation can ultimately be adopted to learn and classify time series data in various applications.**
 
 ## Data description
-All data can be downloaded [here]([https://www.dropbox.com/s/lhnf2u29dokhjy5/sleepposenet_data.zip?dl=0](https://drive.google.com/file/d/1bXQZDdWqCEVAjtJkmyE32_e7JN6d05Ey/view?usp=sharing).
+All data can be downloaded [here](https://drive.google.com/file/d/1bXQZDdWqCEVAjtJkmyE32_e7JN6d05Ey/view?usp=sharing).
 ## Dataset I
 **There are totally 930 input samples.**
 
